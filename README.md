@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 🙋‍♂️ About Me
 
 - 🎓 Graduated in BE Electronic Engineering
-- 🔭 I’m currently working on a Whiteboard feature for my company's app
+- 🔭 I’m currently working on a Whiteboard feature using Angular
 - 🌱 I’m currently learning **Angular, RxJS** and **State Management (NgRx)**
 - 🤝 I’m looking to collaborate on **OpenSource Projects**
 - 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/faizan-ali-bugti-241135181/)
