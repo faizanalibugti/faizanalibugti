@@ -18,18 +18,20 @@ Here are some ideas to get you started:
 ## 🙋‍♂️ About Me
 
 - 🎓 Graduated in BE Electronic Engineering
+- 🔭 I’m currently working on a Whiteboard feature for my company's app
 - 🌱 I’m currently learning **Angular, RxJS** and **State Management (NgRx)**
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-- 📫 How to reach me **faizanalibugti@outlook.com**
+- 🤝 I’m looking to collaborate on **OpenSource Projects**
+- 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/faizan-ali-bugti-241135181/)
+- 💬 Ask me about anything tech related, I am happy to help. (P.S I am NOT tech support)
+- ⚡ Fun fact: I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️.
 
 
-## 🚀 My Skills
+## 🔨 Languages and Tools:
 
-- HTML, CSS, Javascript
-- Frontend Frameworks (Angular)
-- Styling (Material-UI, Bootstrap, Bulma, Sass)
-- Typescript
-- Project Management (git, Github, CI/CD, Storybook, Trello, Asana, Clockify)
+- HTML5, CSS, Sass, Javascript, TypeScript
+- Frontend Frameworks: Angular
+- Styling (Material-UI, Bootstrap, Bulma)
+- Project Management (git, Github, CI/CD, Trello, Asana, Clockify)
 - Deployment (Surge via GitHub Action)
 <br/>
 
