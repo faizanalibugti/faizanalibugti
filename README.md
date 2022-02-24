@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Angular, RxJS** and **State Management (NgRx)**
 - 🤝 I’m looking to collaborate on **OpenSource Projects**
 - 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/faizan-ali-bugti-241135181/)
-- 💬 Ask me about anything tech related, I am happy to help. (P.S I am NOT tech support)
+- 💬 Ask me about anything tech related, I am happy to help. 
 - ⚡ Fun fact: I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️.
 
 
