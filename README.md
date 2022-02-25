@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-<a href="https://github.com/developer-junaid/github-readme-activity-graph"><img alt="Faizan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=faizanalibugti&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a><img alt="Faizan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=faizanalibugti&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
