@@ -28,11 +28,13 @@ Here are some ideas to get you started:
 
 ## 🔨 Languages and Tools:
 
-- HTML5, CSS, Sass, Javascript, TypeScript
+- HTML5, CSS3, Sass, Javascript, TypeScript
 - Frontend Frameworks: Angular
-- Styling (Material-UI, Bootstrap, Bulma)
-- Project Management (git, Github, CI/CD, Trello, Asana, Clockify)
-- Deployment (Surge via GitHub Action)
+- Styling: Material-UI, Bootstrap, Bulma
+- Testing: Jest
+- Project Management: Trello, Asana, Clockify
+- Version Control: git, GitHub
+- Deployment & CI/CD: CI/CD Deployment to Surge via GitHub Actions
 <br/>
 
 <p align="center">
