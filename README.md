@@ -31,10 +31,12 @@ Here are some ideas to get you started:
 - HTML5, CSS3, Sass, Javascript, TypeScript
 - Frontend Frameworks: Angular
 - Styling: Material-UI, Bootstrap, Bulma
-- Testing: Jest
+- Testing: 
+        - Unit Testing: Jest
+        - E2E Testing: Cypress
 - Project Management: Trello, Asana, Clockify
 - Version Control: git, GitHub
-- Deployment & CI/CD: CI/CD Deployment to Surge via GitHub Actions
+- Deployment: CI/CD Deployment to Surge via GitHub Actions
 <br/>
 
 <p align="center">
