@@ -1,4 +1,4 @@
-### Hi there 👋, I am Faizan, a Frontend Angular Developer
+### Hi there 👋, I am Faizan, a Frontend Developer
 
 <!--
 **faizanalibugti/faizanalibugti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🎓 Graduated in BE Electronic Engineering
 - 🔭 I’m currently working on a Whiteboard feature using Angular
-- 🌱 I’m currently learning **Angular, RxJS** and **State Management (NgRx)**
+- 🌱 I’m currently learning **Angular, React, RxJS, Datastructures & Algorithms** and **State Management (NgRx)**
 - 🤝 I’m looking to collaborate on **OpenSource Projects**
 - 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/faizan-ali-bugti-241135181/)
 - 💬 Ask me about anything tech related, I am happy to help. 
@@ -29,14 +29,16 @@ Here are some ideas to get you started:
 ## 🔨 Languages and Tools:
 
 - HTML5, CSS3, Sass, Javascript, TypeScript
-- Frontend Frameworks: Angular
-- Styling: Material-UI, Bootstrap, Bulma
-- Testing
+- **Frontend Frameworks:** Angular, React.js
+- **Styling:** Material-UI, Bootstrap, Bulma
+- **Testing:**
     - Unit Testing: Jest
     - E2E Testing: Cypress
-- Project Management: Trello, Asana, Clockify
-- Version Control: git, GitHub
-- Deployment: CI/CD Deployment to Surge via GitHub Actions
+- **Project Management:** Trello, Asana, Clockify
+- **Version Control:** git, GitHub
+- **Deployment:** 
+    - CI/CD Deployment to Surge via GitHub Actions 
+    - Netlify
 <br/>
 
 <p align="center">
