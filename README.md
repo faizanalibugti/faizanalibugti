@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 
 - HTML5, CSS3, Sass, Javascript, TypeScript
 - **Frontend Frameworks:** Angular, React.js
-- **Styling:** Material-UI, Bootstrap, Bulma
+- **State Management:** Redux, NgRx 
+- **Styling:** Material-UI, Bootstrap, Bulma, Tailwind CSS
 - **Testing:**
     - Unit Testing: Jest
     - E2E Testing: Cypress
