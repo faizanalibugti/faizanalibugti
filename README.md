@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 - **Testing:**
     - Unit Testing: Jest
     - E2E Testing: Cypress
+- **Monorepos:** Nx Workspace
 - **Project Management:** Trello, Asana, Clockify
 - **Version Control:** git, GitHub
 - **Deployment:** 
