@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
   <br/>
     <a ><img alt="Faizan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=faizanalibugti&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a ><img alt="Faizan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizanalibugti&langs_count=8&hide=python,jupyter%20notebook,c%2B%2B,shell,starlark,dockerfile,makefile,glsl&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&layout=compact" /></a>
+  <a ><img alt="Faizan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizanalibugti&langs_count=8&hide=python,svelete,jupyter%20notebook,c%2B%2B,shell,starlark,dockerfile,makefile,glsl&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&layout=compact" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
