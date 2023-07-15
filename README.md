@@ -18,15 +18,24 @@ Here are some ideas to get you started:
 ## 🙋‍♂️ About Me
 
 - 🎓 Graduated in BE Electronic Engineering
-- 🔭 I’m currently working on a Whiteboard feature using Angular
-- 🌱 I’m currently learning **Angular, React, RxJS, Datastructures & Algorithms** and **State Management (NgRx)**
+- 🔭 I’m currently working for an Ed-tech company based in the UK
+- 🌱 I’m currently learning **Angular Signals, RxJS, Datastructures & Algorithms** and **State Management (NgRx)**
 - 🤝 I’m looking to collaborate on **OpenSource Projects**
 - 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/faizan-ali-bugti-241135181/)
-- 💬 Ask me about anything tech related, I am happy to help. 
+- 💬 Ask me about anything related to state management, I am happy to help. 
 - ⚡ Fun fact: I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️.
 
+## 👨‍💻 Me@Work
 
-## 🔨 Languages and Tools:
+- 💡 Turning design concepts into elegant, interactive, and user-friendly web applications.
+- 🌐 Embracing the power of frontend frameworks to build scalable and performant solutions.
+- 🎨 Crafting pixel-perfect UIs with a keen eye for aesthetics and attention to detail.
+- ✨ Constantly exploring new front-end technologies and trends to stay ahead of the curve.
+- 📖 Mentoring junior developers by providing guidance on best practices, coding standards, and fostering a positive learning environment.
+- 🔧 Problem-solver, always seeking innovative solutions to complex challenges.
+- 🤝 Collaborative team player, driven by open communication and collective success.
+
+## 🔨 Languages & Tools:
 
 - HTML5, CSS3, Sass, Javascript, TypeScript
 - **Frontend Frameworks:** Angular, React.js
@@ -41,6 +50,12 @@ Here are some ideas to get you started:
 - **Deployment:** 
     - CI/CD Deployment to Surge via GitHub Actions 
     - Netlify
+<br/>
+
+## ✍️ Quote of the day
+
+> <i>"Frontend development is the art of turning imagination into reality, where creativity meets functionality, and pixels transform into immersive user experiences."</i>
+
 <br/>
 
 <p align="center">
