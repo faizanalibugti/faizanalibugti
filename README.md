@@ -47,8 +47,9 @@ Here are some ideas to get you started:
 - **Monorepos:** Nx Workspace
 - **Project Management:** Trello, Asana, Clockify
 - **Version Control:** git, GitHub
+- **Continuous Integration:** CircleCI, GitHub Actions
 - **Deployment:** 
-    - CI/CD Deployment to Surge via GitHub Actions 
+    - Surge.sh
     - Netlify
 <br/>
 
