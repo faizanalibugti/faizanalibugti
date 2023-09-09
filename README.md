@@ -55,9 +55,10 @@ Here are some ideas to get you started:
 </div>
 
 - HTML5, CSS3, Sass, Javascript, TypeScript
-- **Frontend Frameworks:** Angular, React.js
+- **Frontend Frameworks:** Angular
+- **Reactive Programming:** RxJS
 - **State Management:** Redux, NgRx 
-- **Styling:** Material-UI, Bootstrap, Bulma, Tailwind CSS
+- **Styling:** Angular Material,  Bulma, Tailwind CSS
 - **Testing:**
     - Unit Testing: Jest
     - E2E Testing: Cypress
