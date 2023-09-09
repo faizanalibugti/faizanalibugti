@@ -1,5 +1,7 @@
 ### Hi there 👋, I am Faizan, a Frontend Developer
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=faizanalibugti&label=Profile%20views&color=0e75b6&style=flat" alt="faizan-ali-bugti" /> </p>
+
 <!--
 **faizanalibugti/faizanalibugti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -36,6 +38,21 @@ Here are some ideas to get you started:
 - 🤝 Collaborative team player, driven by open communication and collective success.
 
 ## 🔨 Languages & Tools:
+
+<div align="center">
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular" title="Angular"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="Jest" title="Jest"/>
+	<img width="50" src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" alt="Cypress" title="Cypress"/>
+</div>
 
 - HTML5, CSS3, Sass, Javascript, TypeScript
 - **Frontend Frameworks:** Angular, React.js
@@ -82,7 +99,11 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-## Connect with me:
+<h3 align="left" > 
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
+    Connect with me 🤝 
+</h3>
+
 <p align="left">
   <a href = "https://www.linkedin.com/in/faizan-ali-bugti-241135181/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
